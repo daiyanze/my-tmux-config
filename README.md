@@ -1,5 +1,6 @@
 # My Tmux config
 I made it into quite an easy to learn setup. Hope this can also help those who wants to start using Tmux with some advanced features.
+![snapshot](./snapshot.png)
 
 ## One Command Install
 ```sh
